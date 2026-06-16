@@ -81,35 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeevitha9677980294&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F59E0B&icon_color=FBBF24&text_color=d1d5db"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevitha9677980294&layout=donut&hide_border=true&bg_color=0d1117&title_color=F59E0B&text_color=d1d5db"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevitha9677980294&bg_color=0d1117&color=F59E0B&line=D97706&point=FBBF24&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeevitha9677980294/jeevitha9677980294/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeevitha9677980294/jeevitha9677980294/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/jeevitha9677980294/jeevitha9677980294/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
