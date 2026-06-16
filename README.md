@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,8&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B,FBBF24,FDE68A&height=200&section=header&text=Jeevitha%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Java%20%7C%20Full%20Stack%20Learner%20%7C%20CSE%202027&descAlignY=58&descSize=18&descColor=fff"/>
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&height=80&lines=Hey!+I'm+Jeevitha+S+%F0%9F%91%8B" alt="Name" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=FBBF24&center=true&vCenter=true&width=620&height=50&lines=🐍+Python+%26+Java+Developer;🌐+Full+Stack+Learner+(MERN);🎯+CSE+Student+%40+KGiSL+Institute;🚀+2027+Batch+%7C+Open+to+Internships;💡+Problem+Solver+%26+Team+Leader" alt="Typing SVG" />
+### 🐍 Python & Java Developer &nbsp;|&nbsp; 🌐 MERN Stack Learner &nbsp;|&nbsp; 🎯 2027 Batch
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="270" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## ✨ About Me
 
@@ -70,8 +70,6 @@
 - 🐍 Python-based prototype for automated monument entry via digital passes
 - ✅ Simulated ticketless access — eliminated manual intervention
 - 📝 Practiced software documentation & requirement analysis throughout
-
----
 
 ### 🪑 Exam Seating Arrangement System
 > **Tech: React.js · Node.js · Express.js · MongoDB**
@@ -130,14 +128,14 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/🧠_Critical_Thinking-F59E0B?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/💡_Problem_Solving-F59E0B?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/🤝_Teamwork-F59E0B?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/👑_Leadership-F59E0B?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/⏰_Time_Management-F59E0B?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/🔄_Adaptability-F59E0B?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/📢_Communication-F59E0B?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/🎯_Consistency-F59E0B?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/🧠_Critical_Thinking-F59E0B?style=flat-square)
+![](https://img.shields.io/badge/💡_Problem_Solving-F59E0B?style=flat-square)
+![](https://img.shields.io/badge/🤝_Teamwork-F59E0B?style=flat-square)
+![](https://img.shields.io/badge/👑_Leadership-F59E0B?style=flat-square)
+![](https://img.shields.io/badge/⏰_Time_Management-F59E0B?style=flat-square)
+![](https://img.shields.io/badge/🔄_Adaptability-F59E0B?style=flat-square)
+![](https://img.shields.io/badge/📢_Communication-F59E0B?style=flat-square)
+![](https://img.shields.io/badge/🎯_Consistency-F59E0B?style=flat-square)
 
 </div>
 
@@ -149,6 +147,6 @@
 
 ⭐ *If you like my work, drop a star!* ⭐
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,8&height=3"/>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B,FBBF24,FDE68A&height=120&section=footer&animation=fadeIn"/>
